@@ -10,3 +10,7 @@ To run this file:
 6. You can create an account and then login using that.
 7. In the Home page, you will see the data from the API and you can scroll down to get more data. (I have used Lazy loading and Infinite scrolling).
 8. I have not used much CSS as it was not required for this task.
+
+Website : https://stirring-starlight-e76487.netlify.app/
+
+Note : You can run the website using the above link without any error but you won't be able to access the login and logout functionality locally because I have use Auth0 service and used the website link there. 
